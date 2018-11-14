@@ -10,7 +10,7 @@ public class PokemonData implements Serializable {
     private Integer element1;
     private Integer element2;
 
-    public PokemonData(String name, Integer image, String description, String type, Integer element1, Integer element2) {
+    PokemonData(String name, Integer image, String description, String type, Integer element1, Integer element2) {
         this.name = name;
         this.image = image;
         this.description = description;

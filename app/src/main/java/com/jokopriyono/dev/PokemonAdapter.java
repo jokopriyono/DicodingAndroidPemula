@@ -17,7 +17,7 @@ public class PokemonAdapter extends RecyclerView.Adapter<PokemonAdapter.ViewHold
     List<PokemonData> pokemon;
     private Context context;
 
-    public PokemonAdapter(Context context, List<PokemonData> pokemon) {
+    PokemonAdapter(Context context, List<PokemonData> pokemon) {
         this.context = context;
         this.pokemon = pokemon;
     }
