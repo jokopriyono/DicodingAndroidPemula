@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="element1">
+        <item>1</item> <!--normal-->
+        <item>2</item> <!--psychic-->
+        <item>3</item> <!--grass-->
+        <item>5</item> <!--electric-->
+        <item>6</item> <!--water-->
+        <item>1</item> <!--normal-->
+    </integer-array>
+    <integer-array name="element2">
+        <item>0</item> <!--none-->
+        <item>0</item> <!--none-->
+        <item>4</item> <!--poison-->
+        <item>0</item> <!--none-->
+        <item>0</item> <!--none-->
+        <item>0</item> <!--none-->
+    </integer-array>
+</resources>

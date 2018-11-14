@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextElementNormal" parent="@android:style/Widget.TextView">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_5dp</item>
+        <item name="android:text">@string/element_normal</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/element_normal</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextElementPyschic" parent="@android:style/Widget.TextView">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_5dp</item>
+        <item name="android:text">@string/element_psychic</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/element_pyschic</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextElementGrass" parent="@android:style/Widget.TextView">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_5dp</item>
+        <item name="android:text">@string/element_grass</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/element_grass</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextElementPoison" parent="@android:style/Widget.TextView">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_5dp</item>
+        <item name="android:text">@string/element_poison</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/element_poison</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextElementElectric" parent="@android:style/Widget.TextView">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_5dp</item>
+        <item name="android:text">@string/element_electric</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/element_electric</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextElementWater" parent="@android:style/Widget.TextView">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding_5dp</item>
+        <item name="android:text">@string/element_water</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/element_water</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

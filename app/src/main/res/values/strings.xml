@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Dicoding Android Pemula</string>
+    <string-array name="pokemon">
+        <item>Snorlax</item>
+        <item>Abra</item>
+        <item>Bulbasaur</item>
+        <item>Pikachu</item>
+        <item>Psyduck</item>
+        <item>Rattata</item>
+    </string-array>
+    <string-array name="pokemon_type">
+        <item>Dozing Pokémon</item>
+        <item>Telekinesis Pokémon</item>
+        <item>Seed Pokémon</item>
+        <item>Mouse Pokémon</item>
+        <item>Duck Pokémon</item>
+        <item>Mouse Pokémon</item>
+    </string-array>
+    <string-array name="pokemon_desc">
+        <item>When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.</item>
+        <item>Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.</item>
+        <item>For some time after its birth, it grows by gaining nourishment from the seed on its back.</item>
+        <item>It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.</item>
+        <item>When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.</item>
+        <item>It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime.</item>
+    </string-array>
+    <string name="element_normal">NORMAL</string>
+    <string name="element_psychic">PSYCHIC</string>
+    <string name="element_grass">GRASS</string>
+    <string name="element_poison">POISON</string>
+    <string name="element_electric">ELECTRIC</string>
+    <string name="element_water">WATER</string>
+</resources>
